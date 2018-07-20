@@ -1,0 +1,77 @@
+Body{
+		background-color: #f7f3ec;
+}
+
+.BasBolum{
+	padding-top: 12px;
+	margin-top: 20px;
+}
+
+.headerBaslik{
+	text-align: left;
+	font-weight: 800;
+	font-size: 22px;
+
+}
+
+.headerMenu a{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-right: 10px;
+	color:#a3a2a0;
+	font-weight: bold;
+
+}
+
+.headerMenu a:hover{
+	text-decoration: none;
+	color: #ad7d2b;
+	border-bottom: 2px solid #ad7d2b;
+}
+
+.headerMenu button{
+	font-size: 16px;
+	font-weight: 700;
+	border: none;
+	padding: 10px 15px;
+	margin-left: 10px;
+}
+
+.myButton {
+	padding:15px 20px;
+	text-align: left;
+	font-size: 14px;
+	font-weight: 500;
+	position: relative;
+	color:white;
+	background-color: #ad7d2b;
+}
+
+.buttonTopText{
+	margin-top: 12%;
+}
+.buttonTopText p{
+	font-size: 4rem;
+	font-weight: 600;
+}
+
+.myButton i{
+	top:30%;
+	right:12px;
+	position: absolute;
+	color:white;
+
+}
+
+
+.oapYazi{
+	color:#565656;
+	font-size: 1.6rem;
+	font-weight: 400;
+	line-height: 200%
+}
+
+.oapYazi p{
+	margin-top: 25%;
+}
